@@ -98,10 +98,4 @@ You can freely host this website yourself. All we ask is that you provide proper
 <div align="center">
   
 ---
-  
-<p>Made with ❤️ by <a href="https://github.com/blouzy-cpp">blouzy</a></p>
-<p>
-  <a href="mailto:">WIP</a>
-</p>
-  
 </div> 
